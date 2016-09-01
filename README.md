@@ -12,7 +12,7 @@ Repositório para o estudo de Python. :snake:
 ## Books
 | Number | Name | Finished | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :--- |
-| 01 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/)| [  ] | `Al Sweigart` |
+| 01 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/)| [  ] | `Al Sweigart` |[automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
 ## Courses
 | Number | Name | Platform | Finished | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :--- |
