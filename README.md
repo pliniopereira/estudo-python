@@ -13,7 +13,7 @@ Repositório para o estudo de Python. :snake:
 | Number | Name | Finished | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :--- |
 | 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html)| :white_check_mark: | `Paul Barry` |
-| 02 | [Introdução à Programação com Python - 1ª Edição](http://www.novatec.com.br/livros/intropython/)| [ ] | `Nilo Ney Coutinho Menezes` |
+| 02 | [Introdução à Programação com Python - 1ª Edição](http://www.novatec.com.br/livros/intropython/)| :white_check_mark: | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/)| [  ] | `Al Sweigart` |[automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
 ## Courses
 | Number | Name | Platform | Finished | Author | Repository :octocat: |
