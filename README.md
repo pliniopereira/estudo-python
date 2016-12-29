@@ -19,7 +19,8 @@ Repositório para o estudo de Python. :snake:
 | Number | Name | Platform | Finished | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :--- | 
 | 01 | [Python para Zumbis](http://pycursos.com/python-para-zumbis/)|[PyCursos](http://pycursos.com/)| :white_check_mark: |`Fernando Masanori`| []() 
-| 02 | [Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE)|[eXcript](http://excript.com/)| :white_check_mark: |`Cláudio Rogério Carvalho Filho`| [modulo-tkinter-excript](https://github.com/pliniopereira/modulo-tkinter-excript) 
+| 02 | [Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE)|[eXcript](http://excript.com/)| :white_check_mark: |`Cláudio Rogério Carvalho Filho`| [modulo-tkinter-excript](https://github.com/pliniopereira/modulo-tkinter-excript)
+| 03 | [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/home/welcome)|[Universidade de São Paulo](https://www.coursera.org/usp)| [  ] |`Fabio Kon`| []() 
 
 
 ## License
