@@ -26,7 +26,7 @@ Repositório para o estudo de Python. :snake:
 ## Tutorials
 | Number | Name | Platform | Finished | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :--- | 
-| 01 | [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)|[ZetCode](http://zetcode.com/)| [  ] |`Jan Bodnar`| [estudos-pyqt5](https://github.com/pliniopereira/estudos-pyqt5) 
+| 01 | [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)|[ZetCode](http://zetcode.com/)| :white_check_mark: |`Jan Bodnar`| [estudos-pyqt5](https://github.com/pliniopereira/estudos-pyqt5) 
 
 <h4 id="*nocertificate">*No certificate</h4>
 
