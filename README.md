@@ -14,10 +14,10 @@ Repositório para o estudo de Python. :snake:
 ## Books
 | Number | Name | Finished | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :--- |
-| 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html)| :white_check_mark: | `Paul Barry` |
-| 02 | [Introdução à Programação com Python - 1ª Edição](http://www.novatec.com.br/livros/intropython/)| :white_check_mark: | `Nilo Ney Coutinho Menezes` |
-| 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/)| [  ] | `Al Sweigart` |[automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
-| 04 | [Curso Intensivo de Python]()| [  ] | `Eric Matthes` | []() 
+| 01 | [Use a Cabeça! Programação](http://amzn.to/2v2EbYl)| :white_check_mark: | `Paul Barry` |
+| 02 | [Introdução à Programação com Python](http://amzn.to/2uHtIio)| :white_check_mark: | `Nilo Ney Coutinho Menezes` |
+| 03 | [Automate the Boring Stuff with Python](http://amzn.to/2uCQVUy) [CC](https://automatetheboringstuff.com/)| [  ] | `Al Sweigart` |[automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
+| 04 | [Curso Intensivo de Python](http://amzn.to/2v2myru)| [  ] | `Eric Matthes` | []() 
 
 ## Courses
 | Number | Name | Platform | Finished | Author | Repository :octocat: |
