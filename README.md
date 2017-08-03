@@ -14,10 +14,10 @@ Repositório de lista de estudos.
 ## Books
 | Number | Name | Finished | Language | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| 01 | [Use a Cabeça! Programação](http://amzn.to/2v2EbYl)| :white_check_mark: | Python | `Paul Barry` |
-| 02 | [Introdução à Programação com Python](http://amzn.to/2uHtIio) | :white_check_mark: | Python | `Nilo Ney Coutinho Menezes` |
-| 03 | [Automate the Boring Stuff with Python](http://amzn.to/2uCQVUy) [CC](https://automatetheboringstuff.com/)| [  ] | Python | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
-| 04 | [Curso Intensivo de Python](http://amzn.to/2v2myru) | [  ] | Python | `Eric Matthes` | []() 
+| 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | :white_check_mark: | Python | `Paul Barry` |
+| 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python | `Nilo Ney Coutinho Menezes` |
+| 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | [  ] | Python | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
+| 04 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | [  ] | Python | `Eric Matthes` | []() 
 
 ## Courses
 | Number | Name | Platform | Finished | Language | Author | Repository :octocat: |
