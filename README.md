@@ -32,6 +32,7 @@ Repositório de lista de estudos.
 | Number | Name | Platform | Finished | Language | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- | 
 | 01 | [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)|[ZetCode](http://zetcode.com/) | :white_check_mark: | Python |`Jan Bodnar`| [estudos-pyqt5](https://github.com/pliniopereira/estudos-pyqt5) 
+| 02 | [Sphinx Tutorial](https://supygirls.readthedocs.io/en/latest/intro_comp/tutorial.html)|[SuPyGirls](https://supygirls.readthedocs.io/en/latest/index.html) | [ ] | Python |`Carlo E. T. Oliveira`| [tutorialsphinx](https://github.com/pliniopereira/tutorialsphinx) 
 
 <h4 id="*nocertificate">*No certificate</h4>
 
