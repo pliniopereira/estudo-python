@@ -2,6 +2,26 @@
 
 Repositório de lista de estudos.
 
+## Skills wishlist:
+
+[:heavy_check_mark:] Python
+
+[:heavy_check_mark:] Linux
+
+[:white_check_mark:]Web Crawling
+
+[✔️] Inglês
+
+[:white_check_mark:] WebSockets
+
+[:white_check_mark:] Docker
+
+[:white_check_mark:] Web Scraping
+
+[:white_check_mark:] Selenium
+
+
+
 ## Table of Contents
 
 <!-- toc -->
