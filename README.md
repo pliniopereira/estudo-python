@@ -10,7 +10,7 @@ Repositório de lista de estudos.
 
 [:white_check_mark:]Web Crawling
 
-[✔️] Inglês
+[:heavy_check_mark:] Inglês
 
 [:white_check_mark:] WebSockets
 
@@ -34,16 +34,16 @@ Repositório de lista de estudos.
 ## Books
 | Number | Name | Finished | Language | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | :white_check_mark: | Python | `Paul Barry` |
-| 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python | `Nilo Ney Coutinho Menezes` |
+| 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | [:heavy_check_mark:] | Python | `Paul Barry` |
+| 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | [:heavy_check_mark:] | Python | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | [  ] | Python | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
 | 04 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | [  ] | Python | `Eric Matthes` | []() 
 
 ## Courses
 | Number | Name | Platform | Finished | Language | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- | 
-| 01 | [Python para Zumbis](http://pycursos.com/python-para-zumbis/) | [PyCursos](http://pycursos.com/) | :white_check_mark:[*](#no-certificate) | Python | `Fernando Masanori` | []() 
-| 02 | [Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE) | [eXcript](http://excript.com/) | :white_check_mark:[*](#no-certificate) | Python | `Cláudio Rogério Carvalho Filho` | [modulo-tkinter-excript](https://github.com/pliniopereira/modulo-tkinter-excript)
+| 01 | [Python para Zumbis](http://pycursos.com/python-para-zumbis/) | [PyCursos](http://pycursos.com/) | [:heavy_check_mark:][*](#no-certificate) | Python | `Fernando Masanori` | []() 
+| 02 | [Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE) | [eXcript](http://excript.com/) | [:heavy_check_mark:][*](#no-certificate) | Python | `Cláudio Rogério Carvalho Filho` | [modulo-tkinter-excript](https://github.com/pliniopereira/modulo-tkinter-excript)
 | 03 | [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/home/welcome) | [Universidade de São Paulo](https://www.coursera.org/usp) | [  ][*](#no-certificate) | Python | `Fabio Kon` | []() 
 | 04 | [Python: Programação Orientada a Objetos com Python 3](https://www.udemy.com/programacao-orientada-a-objetos-com-python)| [Udemy](https://www.udemy.com) | [  ] | Python | `Marcos Castro, Thomas William` | []() 
 
@@ -51,8 +51,8 @@ Repositório de lista de estudos.
 ## Tutorials
 | Number | Name | Platform | Finished | Language | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- | 
-| 01 | [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)|[ZetCode](http://zetcode.com/) | :white_check_mark: | Python |`Jan Bodnar`| [estudos-pyqt5](https://github.com/pliniopereira/estudos-pyqt5) 
-| 02 | [Sphinx Tutorial](https://supygirls.readthedocs.io/en/latest/intro_comp/tutorial.html)|[SuPyGirls](https://supygirls.readthedocs.io/en/latest/index.html) | :white_check_mark: | Python |`Carlo E. T. Oliveira`| [tutorialsphinx](https://github.com/pliniopereira/tutorialsphinx) 
+| 01 | [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)|[ZetCode](http://zetcode.com/) | [:heavy_check_mark:] | Python |`Jan Bodnar`| [estudos-pyqt5](https://github.com/pliniopereira/estudos-pyqt5) 
+| 02 | [Sphinx Tutorial](https://supygirls.readthedocs.io/en/latest/intro_comp/tutorial.html)|[SuPyGirls](https://supygirls.readthedocs.io/en/latest/index.html) | [:heavy_check_mark:] | Python |`Carlo E. T. Oliveira`| [tutorialsphinx](https://github.com/pliniopereira/tutorialsphinx) 
 
 <h4 id="*nocertificate">*No certificate</h4>
 
