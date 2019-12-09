@@ -20,6 +20,9 @@ Repositório de lista de estudos.
 
 [:white_check_mark:] Selenium
 
+[:white_check_mark:] Kafka
+
+
 
 
 ## Table of Contents
