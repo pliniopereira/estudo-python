@@ -56,6 +56,8 @@ Repositório de lista de estudos.
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- | 
 | 01 | [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/)|[ZetCode](http://zetcode.com/) | [:heavy_check_mark:] | Python |`Jan Bodnar`| [estudos-pyqt5](https://github.com/pliniopereira/estudos-pyqt5) 
 | 02 | [Sphinx Tutorial](https://supygirls.readthedocs.io/en/latest/intro_comp/tutorial.html)|[SuPyGirls](https://supygirls.readthedocs.io/en/latest/index.html) | [:heavy_check_mark:] | Python |`Carlo E. T. Oliveira`| [tutorialsphinx](https://github.com/pliniopereira/tutorialsphinx) 
+| 03 | [Sphinx Tutorial](https://supygirls.readthedocs.io/en/latest/intro_comp/tutorial.html)|[SuPyGirls](https://supygirls.readthedocs.io/en/latest/index.html) | :heavy_check_mark: | Python |`Carlo E. T. Oliveira`|
+| 04 | [Documentando a história com Sphinx](https://jtemporal.com/documentando-a-historia-com-sphinx/)|[Jessica Temporal](https://jtemporal.com/)| :heavy_check_mark: | Python |[`Jessica Temporal`](https://jtemporal.com/)|
 
 <h4 id="*nocertificate">*No certificate</h4>
 
