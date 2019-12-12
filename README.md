@@ -49,7 +49,7 @@ Repositório de lista de estudos.
 | 02 | [Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE) | [eXcript](http://excript.com/) | [:heavy_check_mark:][*](#no-certificate) | Python | `Cláudio Rogério Carvalho Filho` | [modulo-tkinter-excript](https://github.com/pliniopereira/modulo-tkinter-excript)
 | 03 | [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/home/welcome) | [Universidade de São Paulo](https://www.coursera.org/usp) | [  ][*](#no-certificate) | Python | `Fabio Kon` | []() 
 | 04 | [Python: Programação Orientada a Objetos com Python 3](https://www.udemy.com/programacao-orientada-a-objetos-com-python)| [Udemy](https://www.udemy.com) | [  ] | Python | `Marcos Castro, Thomas William` | []() 
-| 05 | [Getting Started with Apache Kafka](https://www.pluralsight.com/courses/apache-kafka-getting-started)| [Pluralsight](https://www.pluralsight.com/) | [:white_check_mark:] | Apache Kafka | `Ryan Plant` | []()
+| 05 | [Getting Started with Apache Kafka](https://www.pluralsight.com/courses/apache-kafka-getting-started)| [Pluralsight](https://www.pluralsight.com/) | [:heavy_check_mark:] | Apache Kafka | `Ryan Plant` | []()
 
 <!---
 | 06 | []()| []() | [] |  | `` | []() 
