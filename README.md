@@ -50,12 +50,11 @@ Repositório de lista de estudos.
 | 03 | [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/home/welcome) | [Universidade de São Paulo](https://www.coursera.org/usp) | [  ][*](#no-certificate) | Python | `Fabio Kon` | []() 
 | 04 | [Python: Programação Orientada a Objetos com Python 3](https://www.udemy.com/programacao-orientada-a-objetos-com-python)| [Udemy](https://www.udemy.com) | [  ] | Python | `Marcos Castro, Thomas William` | []() 
 | 05 | [Getting Started with Apache Kafka](https://www.pluralsight.com/courses/apache-kafka-getting-started)| [Pluralsight](https://www.pluralsight.com/) | [:heavy_check_mark:] | Apache Kafka | `Ryan Plant` | []()
+| 06 | [The Foundations of Happiness at Work](https://www.edx.org/course/the-foundations-of-happiness-at-work)| [EDX](https://www.edx.org/) | [   ][*](#no-certificate) | Soft Skills | `` | []()
 
 <!---
-| 06 | []()| []() | [] |  | `` | []() 
+| 07 | []()| []() | [] |  | `` | []() 
 -->
-
-
 
 
 ## Tutorials
