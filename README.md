@@ -4,13 +4,13 @@ Repositório de lista de estudos.
 
 ## Skills wishlist:
 
-[:heavy_check_mark:] Python
+:heavy_check_mark: Python
 
-[:heavy_check_mark:] Linux
+:heavy_check_mark: Linux
 
 [:white_check_mark:]Web Crawling
 
-[:heavy_check_mark:] Inglês
+:heavy_check_mark: Inglês
 
 [:white_check_mark:] WebSockets
 
@@ -40,7 +40,7 @@ Repositório de lista de estudos.
 | 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | :heavy_check_mark: | Python | `Paul Barry` |
 | 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :heavy_check_mark: | Python | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | [  ] | Python | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
-| 04 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | [  ] | Python | `Eric Matthes` | []() 
+| 04 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | [ ] | Python | `Eric Matthes` | []() 
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
