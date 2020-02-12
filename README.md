@@ -8,19 +8,19 @@ Repositório de lista de estudos.
 
 :heavy_check_mark: Linux
 
-[:white_check_mark:]Web Crawling
+- [ ] Web Crawling
 
 :heavy_check_mark: Inglês
 
-[:white_check_mark:] WebSockets
+- [ ] WebSockets
 
-[:white_check_mark:] Docker
+- [ ] Docker
 
-[:white_check_mark:] Web Scraping
+- [ ] Web Scraping
 
-[:white_check_mark:] Selenium
+- [ ] Selenium
 
-[:white_check_mark:] Kafka
+- [ ] Kafka
 
 
 
