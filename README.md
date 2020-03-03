@@ -2,28 +2,6 @@
 
 Repositório de lista de estudos.
 
-## Skills wishlist:
-
-:heavy_check_mark: Python
-
-:heavy_check_mark: Linux
-
-- [ ] Web Crawling
-
-:heavy_check_mark: Inglês
-
-- [ ] WebSockets
-
-- [ ] Docker
-
-- [ ] Web Scraping
-
-- [ ] Selenium
-
-- [ ] Kafka
-
-
-
 
 ## Table of Contents
 
@@ -40,7 +18,7 @@ Repositório de lista de estudos.
 | 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | :heavy_check_mark: | Python | `Paul Barry` |
 | 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :heavy_check_mark: | Python | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | [:white_check_mark:] | Python | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
-| 04 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | [:white_check_mark:] | Python | `Eric Matthes` | []() 
+| 04 | [Test Driven Development: By Example](hhttps://www.amazon.com.br/Test-Driven-Development-Kent-Beck/dp/0321146530) | [:white_check_mark:] | Java | `Kent Beck` | [tdd_by_example](https://github.com/pliniopereira/tdd_by_example) 
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
