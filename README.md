@@ -19,7 +19,7 @@ Repositório de lista de estudos.
 | 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
 | 04 | [Test Driven Development: By Example](https://www.amazon.com.br/Test-Driven-Development-Kent-Beck/dp/0321146530) | :white_large_square:	 | Java | `Kent Beck` | 
-| 05 | [Use A Cabeça! Python](http://www.altabooks.com.br/produto/use-a-cabeca-python-2a-edicao/) | :white_large_square: | Python | `Paul Barry` |
+| 05 | [Head First Python, 2nd Edition](https://www.oreilly.com/library/view/head-first-python/9781491919521/) | :white_large_square: | Python | `Paul Barry` | [handson](https://github.com/pliniopereira/handson)
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
