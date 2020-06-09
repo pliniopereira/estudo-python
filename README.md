@@ -27,12 +27,11 @@ Repositório de lista de estudos.
 | 01 | [Python para Zumbis](http://pycursos.com/python-para-zumbis/) | [PyCursos](http://pycursos.com/) | :white_check_mark:[*](#no-certificate) | Python | `Fernando Masanori` | []() 
 | 02 | [Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE) | [eXcript](http://excript.com/) | :white_check_mark:[*](#no-certificate) | Python | `Cláudio Rogério Carvalho Filho` | [modulo-tkinter-excript](https://github.com/pliniopereira/modulo-tkinter-excript)
 | 03 | [Getting Started with Apache Kafka](https://www.pluralsight.com/courses/apache-kafka-getting-started)| [Pluralsight](https://www.pluralsight.com/) | :white_check_mark: | Apache Kafka | `Ryan Plant` | []()
-| 04 | [The Foundations of Happiness at Work](https://www.edx.org/course/the-foundations-of-happiness-at-work)| [EDX](https://www.edx.org/) | :white_large_square:[*](#no-certificate) | Soft Skills | `` | []()
-| 05 | [Curso de Selenium com Python](https://dunossauro.github.io/curso-python-selenium/)| [Canal Yt: Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) | :white_large_square:[*](#no-certificate) | Python | `Eduardo Mendes` | []()
-| 06 | [Curso de Desenvolvimento Web com 🐍 Python e 🍶 Flask](https://www.notion.so/Curso-de-Desenvolvimento-Web-0bf89f9f0dfa4ecead03a237360e5af1)| [Twitch: Code Show](https://twitch.tv/codeshow) | :white_large_square: | Python | `Bruno Rocha` | []()
+| 04 | [Curso de Selenium com Python](https://dunossauro.github.io/curso-python-selenium/)| [YouTube: Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) | :white_large_square:[*](#no-certificate) | Python | `Eduardo Mendes` | []()
+| 05 | [Curso de Desenvolvimento Web com 🐍 Python e 🍶 Flask](https://www.notion.so/Curso-de-Desenvolvimento-Web-0bf89f9f0dfa4ecead03a237360e5af1)| [Twitch: Code Show](https://twitch.tv/codeshow) | :white_large_square: | Python | `Bruno Rocha` | []()
 
 <!---
-| 07 | []()| []() | [] |  | `` | []() 
+| 06 | []()| []() | [] |  | `` | []() 
 -->
 
 
