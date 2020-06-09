@@ -29,7 +29,7 @@ Repositório de lista de estudos.
 | 03 | [Getting Started with Apache Kafka](https://www.pluralsight.com/courses/apache-kafka-getting-started)| [Pluralsight](https://www.pluralsight.com/) | :white_check_mark: | Apache Kafka | `Ryan Plant` | []()
 | 04 | [Curso de Selenium com Python](https://dunossauro.github.io/curso-python-selenium/)| [YouTube: Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) | :white_large_square:[*](#no-certificate) | Python | `Eduardo Mendes` | []()
 | 05 | [Curso de Desenvolvimento Web com 🐍 Python e 🍶 Flask](https://www.notion.so/Curso-de-Desenvolvimento-Web-0bf89f9f0dfa4ecead03a237360e5af1)| [Twitch: Code Show](https://twitch.tv/codeshow) | :white_large_square: | Python | `Bruno Rocha` | []()
-| 06 | [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/)| Udemy | :white_large_square: | Development Tools | `Diego Martins de Pinho, Code Prestige` | []()
+| 06 | [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/)| [Udemy](https://www.udemy.com/) | :white_large_square: | Development Tools | `Diego Martins de Pinho, Code Prestige` | []()
 
 <!---
 | 07 | []()| []() | [] |  | `` | []() 
