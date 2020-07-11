@@ -18,8 +18,7 @@ Repositório de lista de estudos.
 | 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | :white_check_mark: | Python | `Paul Barry` |
 | 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
-| 04 | [Head First Python, 2nd Edition](https://www.oreilly.com/library/view/head-first-python/9781491919521/) | :white_large_square: | Python | `Paul Barry` | [handson](https://github.com/pliniopereira/handson)
-| 05 | [Flask de A a Z Crie aplicações web mais completas e robustas em Python](https://www.casadocodigo.com.br/products/livro-flask-a-z?_pos=2&_sid=993a117d4&_ss=r) | :white_large_square: | Python | `Tiago Silva` | []()
+| 04 | [Flask de A a Z Crie aplicações web mais completas e robustas em Python](https://www.casadocodigo.com.br/products/livro-flask-a-z?_pos=2&_sid=993a117d4&_ss=r) | :white_large_square: | Python | `Tiago Silva` | []()
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
