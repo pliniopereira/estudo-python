@@ -15,10 +15,12 @@ Repositório de lista de estudos.
 ## Books
 | Number | Name | Finished | Language | Author | Repository :octocat: |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | :white_check_mark: | Python | `Paul Barry` |
-| 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python | `Nilo Ney Coutinho Menezes` |
-| 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
-| 04 | [Flask de A a Z Crie aplicações web mais completas e robustas em Python](https://www.casadocodigo.com.br/products/livro-flask-a-z?_pos=2&_sid=993a117d4&_ss=r) | :white_large_square: | Python | `Tiago Silva` | []()
+| 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | :white_check_mark: | Python:snake: | `Paul Barry` |
+| 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python:snake: | `Nilo Ney Coutinho Menezes` |
+| 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python:snake: | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
+| 04 | [Flask de A a Z Crie aplicações web mais completas e robustas em Python](https://www.casadocodigo.com.br/products/livro-flask-a-z?_pos=2&_sid=993a117d4&_ss=r) | :white_large_square: | Python:snake: | `Tiago Silva` | []()
+| 05 | [Programação Funcional e Concorrente em Rust ](https://www.casadocodigo.com.br/products/livro-rust-funcional-concorrente) | :white_large_square: | Rust:crab:  | ` Julia Naomi Boeira` | []()
+| 06 | [**Rust** Concorrência e alta performance com segurança](https://www.casadocodigo.com.br/products/livro-rust?_pos=2&_sid=87289bcb4&_ss=r) | :white_large_square: | Rust:crab: | ` Marcelo Castellani` | []()
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
