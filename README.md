@@ -18,9 +18,8 @@ Repositório de lista de estudos.
 | 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html) | :white_check_mark: | Python :snake: | `Paul Barry` |
 | 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python :snake: | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python :snake: | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
-| 04 | [Flask de A a Z Crie aplicações web mais completas e robustas em Python](https://www.casadocodigo.com.br/products/livro-flask-a-z?_pos=2&_sid=993a117d4&_ss=r) | :white_large_square: | Python :snake: | `Tiago Silva` | []()
-| 05 | [Programação Funcional e Concorrente em Rust ](https://www.casadocodigo.com.br/products/livro-rust-funcional-concorrente) | :white_large_square: | Rust :crab:  | ` Julia Naomi Boeira` | []()
-| 06 | [**Rust** Concorrência e alta performance com segurança](https://www.casadocodigo.com.br/products/livro-rust?_pos=2&_sid=87289bcb4&_ss=r) | :white_large_square: | Rust :crab: | ` Marcelo Castellani` | []()
+| 04 | [Hands-On Azure for Developers](https://www.packtpub.com/product/hands-on-azure-for-developers/9781789340624) | :white_large_square: | Azure | `Kamil Mrzygłód` | []()
+
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
@@ -29,9 +28,6 @@ Repositório de lista de estudos.
 | 02 | [Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE) | [eXcript](http://excript.com/) | :white_check_mark:[*](#no-certificate) | Python :snake: | `Cláudio Rogério Carvalho Filho` | [modulo-tkinter-excript](https://github.com/pliniopereira/modulo-tkinter-excript)
 | 03 | [Getting Started with Apache Kafka](https://www.pluralsight.com/courses/apache-kafka-getting-started)| [Pluralsight](https://www.pluralsight.com/) | :white_check_mark: | Apache Kafka | `Ryan Plant` | []()
 | 04 | [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/)| [Udemy](https://www.udemy.com/) | :white_check_mark: | Development Tools | `Diego Martins de Pinho, Code Prestige` | []()
-| 05 | [Curso de Selenium com Python](https://dunossauro.github.io/curso-python-selenium/)| [YouTube: Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) | :white_large_square: | Python :snake: | `Eduardo Mendes` | []()
-| 06 | [Curso de Desenvolvimento Web com 🐍 Python e 🍶 Flask](https://www.notion.so/Curso-de-Desenvolvimento-Web-0bf89f9f0dfa4ecead03a237360e5af1)| [Twitch: Code Show](https://twitch.tv/codeshow) | :white_large_square: | Python :snake: | `Bruno Rocha` | [curso-flask](https://github.com/pliniopereira/curso-flask)
-| 07 | [Introdução a Linguagem Rust 🦀](https://codeshow.com.br/curso/rust/)| [Twitch: Code Show](https://twitch.tv/codeshow) | :white_large_square: | Rust :crab: | `Bruno Rocha` | [curso-rust](https://github.com/pliniopereira/curso-rust)
 
 
 <!---
