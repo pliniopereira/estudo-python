@@ -19,6 +19,8 @@ Repositório de lista de estudos.
 | 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python :snake: | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python :snake: | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
 | 04 | [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | :white_check_mark: | Docker :whale: | `Rafael Gomes` | []()
+| 05 | [O Projeto Fênix](http://www.altabooks.com.br/produto/o-projeto-fenix-um-romance-sobre-ti-devops-e-sobre-ajudar-o-seu-negocio-a-vencer/) | :white_large_square: | Literatura e Ficção | `Gene Kim, George Spafford, Kevin Behr` | []()
+| 06 | [Manual De DevOps](http://www.altabooks.com.br/produto/manual-de-devops-como-obter-agilidade-confiabilidade-e-seguranca-em-organizacoes-tecnologicas/) | :white_large_square: | DevOps :gear::gear: | `Gene Kim, Jez Humble, John Willis, Patrick Debois` | []()
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
