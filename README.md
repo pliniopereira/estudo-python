@@ -36,10 +36,9 @@ Repositório de lista de estudos.
 | 07 | [Introdução a Linguagem Rust 🦀](https://codeshow.com.br/curso/rust/)| [Twitch: Code Show](https://twitch.tv/codeshow) | :white_large_square: | Rust :crab: | `Bruno Rocha` | [curso-rust](https://github.com/pliniopereira/curso-rust)
 | 08 | [Getting On Board with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=getting-on-board-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
 | 09 | [Developing with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=developing-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
-| 10 | [Docker for ASP.NET Core Developers](https://www.wintellectnow.com/Videos/Watch?videoId=docker-for-aspdotnet-core-developers) | :white_large_square: | Docker :whale: | `Jeff Fritz` | []()
-| 11 | [Introdução aos contêineres do Docker](https://docs.microsoft.com/pt-br/learn/modules/intro-to-docker-containers/) | :white_check_mark: | Docker :whale: | `Microsoft` | []()
-| 12 | [AWS Educate - DevOps Engineer ](https://aws.amazon.com/education/awseducate/pathways-and-badges/) | Em andamento | DevOps :gear::gear: | `Amazon` | []()
-| 13 | [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents) | :white_check_mark: | DevOps :gear::gear: | `Richard Seroter` | []()
+| 10 | [Introdução aos contêineres do Docker](https://docs.microsoft.com/pt-br/learn/modules/intro-to-docker-containers/) | :white_check_mark: | Docker :whale: | `Microsoft` | []()
+| 11 | [AWS Educate - DevOps Engineer ](https://aws.amazon.com/education/awseducate/pathways-and-badges/) | Em andamento | DevOps :gear::gear: | `Amazon` | []()
+| 12 | [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents) | :white_check_mark: | DevOps :gear::gear: | `Richard Seroter` | []()
 
 
 <!---
