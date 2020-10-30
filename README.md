@@ -20,7 +20,9 @@ Repositório de lista de estudos.
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python :snake: | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
 | 04 | [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | :white_check_mark: | Docker :whale: | `Rafael Gomes` | []()
 | 05 | [O Projeto Fênix](http://www.altabooks.com.br/produto/o-projeto-fenix-um-romance-sobre-ti-devops-e-sobre-ajudar-o-seu-negocio-a-vencer/) | :white_large_square: | Literatura e Ficção | `Gene Kim, George Spafford, Kevin Behr` | []()
-| 06 | [Manual De DevOps](http://www.altabooks.com.br/produto/manual-de-devops-como-obter-agilidade-confiabilidade-e-seguranca-em-organizacoes-tecnologicas/) | :white_large_square: | DevOps :gear::gear: | `Gene Kim, Jez Humble, John Willis, Patrick Debois` | []()
+| 06 | [Programação Funcional e Concorrente em **Rust** ](https://www.casadocodigo.com.br/products/livro-rust-funcional-concorrente) | :white_large_square: | Rust :crab:  | `Julia Naomi Boeira` | []()
+| 07 | [**Rust** Concorrência e alta performance com segurança](https://www.casadocodigo.com.br/products/livro-rust?_pos=2&_sid=87289bcb4&_ss=r) | :white_large_square: | Rust :crab: | `Marcelo Castellani` | []()
+| 07 | [Primeiros Passos com a Linguagem **Rust**](https://novatec.com.br/livros/primeiros-passos-linguagem-rust/) | :white_large_square: | Rust :crab: | `José Augusto N. G. Manzano` | []()
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
@@ -31,13 +33,13 @@ Repositório de lista de estudos.
 | 04 | [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/)| [Udemy](https://www.udemy.com/) | :white_check_mark: | Development Tools | `Diego Martins de Pinho, Code Prestige` | []()
 | 05 | [Getting On Board with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=getting-on-board-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
 | 06 | [Developing with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=developing-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
-| 07 | [Docker for ASP.NET Core Developers](https://www.wintellectnow.com/Videos/Watch?videoId=docker-for-aspdotnet-core-developers) | :white_large_square: | Docker :whale: | `Jeff Fritz` | []()
-| 08 | [Introdução aos contêineres do Docker](https://docs.microsoft.com/pt-br/learn/modules/intro-to-docker-containers/) | :white_check_mark: | Docker :whale: | `Microsoft` | []()
-| 09 | [Getting Started with Docker on Windows](https://app.pluralsight.com/library/courses/docker-windows-getting-started/table-of-contents) | :white_large_square: | Docker :whale: | `Wes Higbee` | []()
-| 10 | [Docker and Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents) | :white_large_square: | Docker :whale: | `Nigel Poulton` | []()
-| 11 | [DevOps: The Big Picture](https://app.pluralsight.com/library/courses/devops-big-picture/table-of-contents) | :white_large_square: | DevOps :gear::gear: | `Richard Seroter` | []()
-| 12 | [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents) | :white_check_mark: | DevOps :gear::gear: | `Richard Seroter` | []()
-| 13 | [AWS Educate - DevOps Engineer ](https://aws.amazon.com/education/awseducate/pathways-and-badges/) | Em andamento | DevOps :gear::gear: | `Amazon` | []()
+| 07 | [Introdução a Linguagem Rust 🦀](https://codeshow.com.br/curso/rust/)| [Twitch: Code Show](https://twitch.tv/codeshow) | :white_large_square: | Rust :crab: | `Bruno Rocha` | [curso-rust](https://github.com/pliniopereira/curso-rust)
+| 08 | [Getting On Board with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=getting-on-board-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
+| 09 | [Developing with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=developing-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
+| 10 | [Docker for ASP.NET Core Developers](https://www.wintellectnow.com/Videos/Watch?videoId=docker-for-aspdotnet-core-developers) | :white_large_square: | Docker :whale: | `Jeff Fritz` | []()
+| 11 | [Introdução aos contêineres do Docker](https://docs.microsoft.com/pt-br/learn/modules/intro-to-docker-containers/) | :white_check_mark: | Docker :whale: | `Microsoft` | []()
+| 12 | [AWS Educate - DevOps Engineer ](https://aws.amazon.com/education/awseducate/pathways-and-badges/) | Em andamento | DevOps :gear::gear: | `Amazon` | []()
+| 13 | [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents) | :white_check_mark: | DevOps :gear::gear: | `Richard Seroter` | []()
 
 
 <!---
