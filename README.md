@@ -19,10 +19,10 @@ Repositório de lista de estudos.
 | 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python :snake: | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python :snake: | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
 | 04 | [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | :white_check_mark: | Docker :whale: | `Rafael Gomes` | []()
-| 05 | [O Projeto Fênix](http://www.altabooks.com.br/produto/o-projeto-fenix-um-romance-sobre-ti-devops-e-sobre-ajudar-o-seu-negocio-a-vencer/) | :white_large_square: | Literatura e Ficção | `Gene Kim, George Spafford, Kevin Behr` | []()
-| 06 | [Programação Funcional e Concorrente em **Rust** ](https://www.casadocodigo.com.br/products/livro-rust-funcional-concorrente) | :white_large_square: | Rust :crab:  | `Julia Naomi Boeira` | []()
-| 07 | [**Rust** Concorrência e alta performance com segurança](https://www.casadocodigo.com.br/products/livro-rust?_pos=2&_sid=87289bcb4&_ss=r) | :white_large_square: | Rust :crab: | `Marcelo Castellani` | []()
-| 07 | [Primeiros Passos com a Linguagem **Rust**](https://novatec.com.br/livros/primeiros-passos-linguagem-rust/) | :white_large_square: | Rust :crab: | `José Augusto N. G. Manzano` | []()
+| 05 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | :white_check_mark: | Python :snake: | `Eric Matthes` | []()
+| 06 | [Desenvolvimento Web com Flask](https://novatec.com.br/livros/desenvolvimento-web-com-flask/) | [ ] | :sake: Flask | `Miguel Grinberg` | []()
+| 07 | [Como ser um programador melhor](https://novatec.com.br/livros/programador-melhor/) | [ ] | Boa práticas | `Pete Goodliffe` | []()
+| 09 | [TDD com Python](https://novatec.com.br/livros/tdd-com-python/) | [ ] | TDD | `Harry J.W. Percival` | []()
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
@@ -37,8 +37,7 @@ Repositório de lista de estudos.
 | 08 | [Getting On Board with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=getting-on-board-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
 | 09 | [Developing with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=developing-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
 | 10 | [Introdução aos contêineres do Docker](https://docs.microsoft.com/pt-br/learn/modules/intro-to-docker-containers/) | :white_check_mark: | Docker :whale: | `Microsoft` | []()
-| 11 | [AWS Educate - DevOps Engineer ](https://aws.amazon.com/education/awseducate/pathways-and-badges/) | Em andamento | DevOps :gear::gear: | `Amazon` | []()
-| 12 | [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents) | :white_check_mark: | DevOps :gear::gear: | `Richard Seroter` | []()
+| 11 | [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents) | :white_check_mark: | DevOps :gear::gear: | `Richard Seroter` | []()
 
 
 <!---
