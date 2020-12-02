@@ -21,7 +21,7 @@ Repositório de lista de estudos.
 | 04 | [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | :white_check_mark: | Docker :whale: | `Rafael Gomes` | []()
 | 05 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | :white_check_mark: | Python :snake: | `Eric Matthes` | []()
 | 06 | [Desenvolvimento Web com Flask](https://novatec.com.br/livros/desenvolvimento-web-com-flask/) | [ ] | :sake: Flask | `Miguel Grinberg` | []()
-| 07 | [Como ser um programador melhor](https://novatec.com.br/livros/programador-melhor/) | [ ] | Boa práticas | `Pete Goodliffe` | []()
+| 07 | [Como ser um programador melhor](https://novatec.com.br/livros/programador-melhor/) | [ ] | Boas práticas | `Pete Goodliffe` | []()
 | 09 | [TDD com Python](https://novatec.com.br/livros/tdd-com-python/) | [ ] | TDD | `Harry J.W. Percival` | []()
 
 ## Courses
