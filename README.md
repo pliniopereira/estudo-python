@@ -21,9 +21,9 @@ Repositório de lista de estudos.
 | 04 | [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | :white_check_mark: | Docker :whale: | `Rafael Gomes` | []()
 | 05 | [O Projeto Fênix](http://www.altabooks.com.br/produto/o-projeto-fenix-um-romance-sobre-ti-devops-e-sobre-ajudar-o-seu-negocio-a-vencer/) | :white_large_square: | Literatura e Ficção | `Gene Kim, George Spafford, Kevin Behr` | []()
 | 06 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | :white_check_mark: | Python :snake: | `Eric Matthes` | []()
-| 07 | [Desenvolvimento Web com Flask](https://novatec.com.br/livros/desenvolvimento-web-com-flask/) | [ ] | :sake: Flask | `Miguel Grinberg` | []()
-| 08 | [Como ser um programador melhor](https://novatec.com.br/livros/programador-melhor/) | [ ] | Boas práticas | `Pete Goodliffe` | []()
-| 09 | [TDD com Python](https://novatec.com.br/livros/tdd-com-python/) | [ ] | TDD | `Harry J.W. Percival` | []()
+| 07 | [Desenvolvimento Web com Flask](https://novatec.com.br/livros/desenvolvimento-web-com-flask/) | :white_large_square: | :sake: Flask | `Miguel Grinberg` | []()
+| 08 | [Como ser um programador melhor](https://novatec.com.br/livros/programador-melhor/) | :white_large_square: | Boas práticas | `Pete Goodliffe` | []()
+| 09 | [TDD com Python](https://novatec.com.br/livros/tdd-com-python/) | :white_large_square: | TDD | `Harry J.W. Percival` | []()
 
 ## Courses
 | Number | Name | Platform | Finished | About | Author | Repository :octocat: |
