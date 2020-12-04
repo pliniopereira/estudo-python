@@ -19,9 +19,10 @@ Repositório de lista de estudos.
 | 02 | [Introdução à Programação com Python](https://novatec.com.br/livros/introducao-python-2ed/) | :white_check_mark: | Python :snake: | `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/) | :white_check_mark: | Python :snake: | `Al Sweigart` | [automate-the-boring-stuff-with-python](https://github.com/pliniopereira/automate-the-boring-stuff-with-python)
 | 04 | [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) | :white_check_mark: | Docker :whale: | `Rafael Gomes` | []()
-| 05 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | :white_check_mark: | Python :snake: | `Eric Matthes` | []()
-| 06 | [Desenvolvimento Web com Flask](https://novatec.com.br/livros/desenvolvimento-web-com-flask/) | [ ] | :sake: Flask | `Miguel Grinberg` | []()
-| 07 | [Como ser um programador melhor](https://novatec.com.br/livros/programador-melhor/) | [ ] | Boas práticas | `Pete Goodliffe` | []()
+| 05 | [O Projeto Fênix](http://www.altabooks.com.br/produto/o-projeto-fenix-um-romance-sobre-ti-devops-e-sobre-ajudar-o-seu-negocio-a-vencer/) | :white_large_square: | Literatura e Ficção | `Gene Kim, George Spafford, Kevin Behr` | []()
+| 06 | [Curso Intensivo de Python](https://novatec.com.br/livros/curso-intensivo-python/) | :white_check_mark: | Python :snake: | `Eric Matthes` | []()
+| 07 | [Desenvolvimento Web com Flask](https://novatec.com.br/livros/desenvolvimento-web-com-flask/) | [ ] | :sake: Flask | `Miguel Grinberg` | []()
+| 08 | [Como ser um programador melhor](https://novatec.com.br/livros/programador-melhor/) | [ ] | Boas práticas | `Pete Goodliffe` | []()
 | 09 | [TDD com Python](https://novatec.com.br/livros/tdd-com-python/) | [ ] | TDD | `Harry J.W. Percival` | []()
 
 ## Courses
@@ -31,13 +32,17 @@ Repositório de lista de estudos.
 | 02 | [Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE) | [eXcript](http://excript.com/) | :white_check_mark:[*](#no-certificate) | Python :snake: | `Cláudio Rogério Carvalho Filho` | [modulo-tkinter-excript](https://github.com/pliniopereira/modulo-tkinter-excript)
 | 03 | [Getting Started with Apache Kafka](https://www.pluralsight.com/courses/apache-kafka-getting-started)| [Pluralsight](https://www.pluralsight.com/) | :white_check_mark: | Apache Kafka | `Ryan Plant` | []()
 | 04 | [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/)| [Udemy](https://www.udemy.com/) | :white_check_mark: | Development Tools | `Diego Martins de Pinho, Code Prestige` | []()
-| 05 | [Getting On Board with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=getting-on-board-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
-| 06 | [Developing with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=developing-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
+| 05 | [Getting On Board with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=getting-on-board-with-docker) | wintellectnow | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
+| 06 | [Developing with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=developing-with-docker) | wintellectnow | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
 | 07 | [Introdução a Linguagem Rust 🦀](https://codeshow.com.br/curso/rust/)| [Twitch: Code Show](https://twitch.tv/codeshow) | :white_large_square: | Rust :crab: | `Bruno Rocha` | [curso-rust](https://github.com/pliniopereira/curso-rust)
-| 08 | [Getting On Board with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=getting-on-board-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
-| 09 | [Developing with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=developing-with-docker) | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
-| 10 | [Introdução aos contêineres do Docker](https://docs.microsoft.com/pt-br/learn/modules/intro-to-docker-containers/) | :white_check_mark: | Docker :whale: | `Microsoft` | []()
+| 08 | [Getting On Board with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=getting-on-board-with-docker) | wintellectnow | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
+| 09 | [Developing with Docker](https://www.wintellectnow.com/Videos/Watch?videoId=developing-with-docker) | wintellectnow | :white_check_mark: | Docker :whale: | `Blaize Stewart` | []()
+| 10 | [Introdução aos contêineres do Docker](https://docs.microsoft.com/pt-br/learn/modules/intro-to-docker-containers/) | Microsoft Learn |:white_check_mark: | Docker :whale: | `Microsoft` | []()
 | 11 | [Implementing DevOps in the Real World](https://app.pluralsight.com/library/courses/implementing-devops-real-world/table-of-contents) | :white_check_mark: | DevOps :gear::gear: | `Richard Seroter` | []()
+| 12 | [Bootcamp Arquiteto(a) Cloud Computing](https://www.igti.com.br/custom/arquiteto-cloud-computing/) | IGTI | Em andamento | :cloud: Nuvem | | []()
+| 13 | [DevOps Engineer ](https://aws.amazon.com/education/awseducate/pathways-and-badges/) | AWS Educate | Em andamento | DevOps :gear::gear: | `Amazon` | []()
+| 13 | [Cientista de dados](https://aws.amazon.com/education/awseducate/pathways-and-badges/) | AWS Educate | Em andamento | Ciência de dados | `Amazon` | []()
+
 
 
 <!---
